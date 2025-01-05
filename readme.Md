@@ -1,1 +1,1 @@
-[!]("https://github.com/AbinashDwibedi/fourier-series/blob/main/epicycle.png")
+[!]("https://github.com/AbinashDwibedi/fourier-series/blob/main/assets/epicycle.png")
