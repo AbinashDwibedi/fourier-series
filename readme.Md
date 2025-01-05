@@ -1,0 +1,1 @@
+[!https://github.com/AbinashDwibedi/fourier-series/blob/main/epicycle.png]("website image")
