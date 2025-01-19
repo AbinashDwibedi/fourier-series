@@ -1,2 +1,4 @@
-![website image]("https://github.com/AbinashDwibedi/fourier-series/blob/main/assets/epicycle.png");
+# image
+
+![website image](https://github.com/AbinashDwibedi/fourier-series/blob/main/assets/epicycle.png);
 
